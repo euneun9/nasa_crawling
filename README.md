@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 설치 방법
+## 🛠 사용 방법
 
 ### 1. wkhtmltopdf 설치
 [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html)에서 운영체제에 맞는 버전 다운로드 및 설치
